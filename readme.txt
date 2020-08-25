@@ -1,1 +1,2 @@
-some text
+Hello world!
+And some text
